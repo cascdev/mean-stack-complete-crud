@@ -1,0 +1,19 @@
+{
+    "name": "backend lista de contatos Angular 2020",
+    "version": "1.0.0",
+    "description": "Servidor backend",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Charles Augusto",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "cors": "^2.8.5",
+        "express": "^4.16.2",
+        "mongoose": "^5.4.8",
+        "nodemon": "^2.0.2"
+    }
+}
